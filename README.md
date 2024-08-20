@@ -1,7 +1,3 @@
-Below is an outline of a README file that you can use for your project involving the analysis and forecasting of National Rail data using machine learning.
-
----
-
 # National Rail Data Analysis and Forecasting
 
 ## Project Overview
