@@ -108,7 +108,7 @@ If you wish to contribute to this project, please fork the repository and create
 
 ## License
 
-This project is licensed under the MIT License - see the `LICENSE` file for details.
+This project is licensed under the License - see the `License` https://github.com/Paulakinpelu/National-Rail-Data-Analysis-and-Forecasting/blob/main/License for details.
 
 ## Contact
 
