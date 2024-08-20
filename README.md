@@ -112,7 +112,7 @@ This project is licensed under the MIT License - see the `LICENSE` file for deta
 
 ## Contact
 
-For any inquiries or support, please reach out to [Your Name] at [Your Email].
+For any inquiries or support, please reach out to Paul AKinpelu at paulakinpelu@yahoo.com.
 
 ---
 
